@@ -1,0 +1,7 @@
+name: llamaindex_chunker
+namespace: actlang
+version: 0.1.0
+dependencies:
+  - actlang/pdf_loader@>=0.1.0
+outputs:
+  chunks: list[text]

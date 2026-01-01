@@ -1,0 +1,5 @@
+name: pdf_loader
+namespace: actlang
+version: 0.1.0
+outputs:
+  documents: list[text]
